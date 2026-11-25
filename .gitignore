@@ -1,0 +1,3 @@
+
+# Cargo lockfiles remain local at every directory depth.
+Cargo.lock
